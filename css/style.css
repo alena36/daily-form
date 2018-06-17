@@ -1,0 +1,13 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+	background: linear-gradient(to bottom left, #dd2476, #ff512f);
+	background-repeat: no-repeat;
+}
+
+.form-container {
+	width: 460px;
+}
